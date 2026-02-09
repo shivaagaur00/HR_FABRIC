@@ -1,0 +1,101 @@
+EmpID,Age,AgeGroup,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,SalarySlab,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+RM301,22,18-25,Yes,Travel_Frequently,1013,Sales,24,1,Life Sciences,1,401,1,Female,41,1,4,Sales Executive,3,Divorced,18761,5k-10k,23910,9,Y,Yes,14,1,1,80,0,25,3,1,16,6,7,1
+RM302,38,36-45,No,Non-Travel,804,Research & Development,30,2,Technical Degree,1,402,3,Female,61,4,1,Sales Representative,1,Married,14337,10k-20k,14300,4,Y,Yes,24,4,4,80,0,1,2,3,6,0,4,0
+RM303,27,26-35,Yes,Travel_Frequently,952,Human Resources,25,1,Medical,1,403,3,Male,82,1,4,Sales Representative,2,Divorced,2479,20k+,19241,10,Y,No,12,4,3,80,3,39,0,2,7,1,1,10
+RM304,57,46-60,Yes,Non-Travel,395,Research & Development,13,4,Technical Degree,1,404,1,Female,79,3,3,Manager,2,Single,11074,10k-20k,16508,5,Y,Yes,10,1,2,80,1,16,1,4,4,10,4,8
+RM305,49,46-60,No,Travel_Frequently,846,Human Resources,28,2,Marketing,1,405,4,Male,76,1,4,Sales Representative,4,Single,1146,10k-20k,23251,7,Y,No,24,4,1,80,1,19,5,4,20,5,8,3
+RM306,54,46-60,Yes,Non-Travel,880,Sales,21,3,Marketing,1,406,4,Male,82,4,2,Sales Representative,3,Single,5433,20k+,28743,3,Y,No,17,1,4,80,1,32,5,1,13,1,10,5
+RM307,41,36-45,No,Travel_Rarely,849,Sales,3,3,Marketing,1,407,3,Female,37,3,1,Sales Executive,4,Married,4485,20k+,24305,3,Y,Yes,13,2,3,80,2,3,0,3,5,10,8,7
+RM308,24,18-25,No,Travel_Frequently,1231,Sales,5,1,Medical,1,408,1,Male,46,3,1,Laboratory Technician,1,Married,16773,20k+,5498,6,Y,Yes,19,3,3,80,2,40,4,4,4,8,1,3
+RM309,32,26-35,No,Travel_Rarely,1442,Human Resources,4,5,Medical,1,409,2,Female,87,2,4,Sales Executive,4,Divorced,1695,Upto 5k,23828,4,Y,No,25,3,4,80,2,26,4,2,11,8,6,4
+RM310,36,36-45,Yes,Travel_Rarely,213,Research & Development,19,1,Medical,1,410,2,Male,36,1,1,Sales Executive,1,Single,5422,10k-20k,14903,0,Y,No,17,1,4,80,1,5,5,1,12,9,6,0
+RM311,50,46-60,Yes,Travel_Rarely,539,Research & Development,25,4,Marketing,1,411,1,Female,54,2,2,Research Scientist,1,Single,8100,20k+,6187,2,Y,No,20,4,3,80,2,34,0,2,11,7,5,3
+RM312,29,26-35,No,Travel_Rarely,1235,Research & Development,25,2,Technical Degree,1,412,2,Male,62,2,1,Laboratory Technician,4,Single,2962,Upto 5k,25534,6,Y,Yes,17,1,2,80,1,39,4,4,20,4,7,4
+RM313,30,26-35,No,Non-Travel,1405,Research & Development,1,3,Technical Degree,1,413,1,Male,45,4,4,Sales Executive,2,Single,3966,Upto 5k,5798,5,Y,Yes,12,3,2,80,2,38,3,1,10,3,6,4
+RM314,37,36-45,Yes,Travel_Frequently,455,Research & Development,4,5,Marketing,1,414,4,Female,61,2,2,Research Scientist,3,Divorced,16390,5k-10k,27682,2,Y,Yes,18,1,2,80,1,9,3,1,14,10,3,6
+RM315,29,26-35,Yes,Travel_Frequently,1098,Human Resources,27,2,Technical Degree,1,415,4,Male,54,4,3,Manager,4,Married,9636,10k-20k,17434,10,Y,No,20,4,1,80,2,9,5,1,1,2,10,8
+RM316,55,46-60,No,Travel_Rarely,230,Human Resources,13,4,Medical,1,416,2,Female,77,1,1,Sales Executive,4,Divorced,1578,20k+,9899,5,Y,Yes,14,2,3,80,3,6,2,1,8,5,6,5
+RM317,20,18-25,No,Travel_Rarely,912,Research & Development,18,2,Life Sciences,1,417,3,Male,96,4,4,Manager,2,Divorced,8833,10k-20k,10967,2,Y,Yes,17,4,2,80,3,18,2,3,16,7,2,2
+RM318,60,46-60,No,Travel_Rarely,558,Research & Development,20,4,Technical Degree,1,418,4,Female,55,1,2,Laboratory Technician,4,Married,13859,20k+,13036,1,Y,No,13,3,1,80,3,19,3,4,4,7,5,3
+RM319,20,18-25,Yes,Travel_Frequently,215,Human Resources,1,1,Life Sciences,1,419,4,Male,85,2,5,Laboratory Technician,3,Divorced,14485,5k-10k,23391,5,Y,Yes,23,3,4,80,1,26,4,1,5,10,9,8
+RM320,28,26-35,Yes,Travel_Frequently,643,Human Resources,7,2,Technical Degree,1,420,2,Male,52,4,1,Sales Representative,3,Divorced,12757,10k-20k,25235,2,Y,No,20,3,3,80,0,31,0,3,14,1,2,0
+RM321,41,36-45,No,Travel_Rarely,1133,Sales,26,5,Medical,1,421,4,Female,51,2,5,Manager,1,Divorced,14510,5k-10k,10166,6,Y,Yes,16,2,1,80,2,10,3,3,20,1,4,5
+RM322,39,36-45,No,Non-Travel,1144,Research & Development,30,5,Marketing,1,422,2,Female,31,4,1,Research Scientist,2,Married,12517,5k-10k,16480,0,Y,Yes,13,2,3,80,0,37,5,4,7,7,4,0
+RM323,47,46-60,No,Travel_Rarely,1113,Research & Development,18,4,Medical,1,423,1,Female,90,4,4,Manager,2,Single,18680,5k-10k,15795,5,Y,Yes,19,3,3,80,1,12,1,3,16,0,7,6
+RM324,38,36-45,Yes,Non-Travel,331,Human Resources,9,5,Life Sciences,1,424,1,Male,54,2,3,Manager,2,Married,19253,5k-10k,13817,2,Y,No,13,2,3,80,1,19,0,1,10,7,8,5
+RM325,41,36-45,Yes,Travel_Rarely,236,Research & Development,13,4,Marketing,1,425,3,Female,34,3,5,Laboratory Technician,4,Married,8104,10k-20k,18086,10,Y,Yes,11,2,2,80,1,39,6,1,2,0,1,6
+RM326,43,36-45,Yes,Non-Travel,392,Human Resources,4,1,Technical Degree,1,426,2,Female,87,1,2,Sales Representative,4,Single,10977,10k-20k,11489,6,Y,No,24,1,3,80,1,17,1,3,15,7,8,10
+RM327,50,46-60,Yes,Travel_Rarely,1239,Sales,2,4,Technical Degree,1,427,1,Male,52,1,2,Manager,2,Single,11388,Upto 5k,7812,4,Y,Yes,18,1,2,80,0,10,6,3,12,6,0,5
+RM328,36,36-45,No,Travel_Frequently,648,Research & Development,2,1,Medical,1,428,3,Female,67,1,4,Sales Executive,4,Divorced,6609,5k-10k,11078,6,Y,No,17,2,3,80,0,27,0,4,11,5,2,9
+RM329,24,18-25,No,Non-Travel,284,Human Resources,23,5,Medical,1,429,3,Female,71,4,3,Laboratory Technician,4,Divorced,6793,5k-10k,18455,6,Y,No,24,1,3,80,0,25,0,2,12,3,2,7
+RM330,39,36-45,Yes,Travel_Rarely,899,Human Resources,2,2,Technical Degree,1,430,3,Female,74,1,5,Sales Representative,4,Married,17974,5k-10k,25504,1,Y,No,25,2,3,80,0,37,5,2,6,9,9,5
+RM331,28,26-35,No,Non-Travel,503,Human Resources,29,3,Medical,1,431,4,Female,53,1,4,Manager,1,Divorced,18831,10k-20k,8139,0,Y,Yes,14,1,1,80,0,6,3,3,20,0,10,9
+RM332,33,26-35,No,Travel_Rarely,319,Research & Development,24,1,Medical,1,432,2,Female,59,1,4,Manager,2,Single,11929,5k-10k,6391,10,Y,Yes,11,4,3,80,1,7,0,1,10,8,6,6
+RM333,34,26-35,Yes,Travel_Rarely,802,Human Resources,28,2,Marketing,1,433,4,Female,86,2,4,Manager,1,Divorced,7800,10k-20k,21990,4,Y,No,14,2,2,80,2,21,5,2,8,5,0,5
+RM334,39,36-45,Yes,Travel_Frequently,873,Human Resources,30,1,Marketing,1,434,2,Female,88,3,4,Sales Representative,4,Divorced,16541,Upto 5k,19490,3,Y,Yes,21,2,1,80,1,7,2,3,3,5,7,1
+RM335,58,46-60,No,Non-Travel,177,Human Resources,4,4,Marketing,1,435,2,Female,54,1,1,Research Scientist,1,Married,8148,5k-10k,18915,2,Y,Yes,18,1,4,80,1,17,2,3,18,0,10,1
+RM336,40,36-45,Yes,Non-Travel,1456,Human Resources,1,4,Marketing,1,436,4,Female,48,4,1,Research Scientist,4,Single,10490,20k+,5159,5,Y,No,14,2,2,80,1,34,6,2,4,5,0,3
+RM337,18,18-25,No,Travel_Frequently,1408,Research & Development,19,4,Marketing,1,437,1,Female,78,3,1,Sales Executive,2,Married,10377,10k-20k,25291,7,Y,No,11,4,2,80,0,9,2,3,7,9,1,6
+RM338,33,26-35,No,Non-Travel,126,Sales,5,4,Technical Degree,1,438,3,Male,96,4,2,Manager,1,Single,14599,Upto 5k,9546,8,Y,No,17,3,3,80,3,17,1,3,19,10,5,6
+RM339,47,46-60,No,Travel_Frequently,1427,Sales,4,3,Technical Degree,1,439,4,Female,44,1,3,Laboratory Technician,2,Divorced,11574,Upto 5k,11792,1,Y,Yes,17,2,3,80,1,6,4,4,17,2,0,0
+RM340,29,26-35,Yes,Travel_Rarely,1009,Sales,29,2,Medical,1,440,4,Male,85,2,2,Sales Representative,2,Married,12204,Upto 5k,25046,0,Y,No,15,3,3,80,2,16,1,2,7,3,10,1
+RM341,18,18-25,Yes,Non-Travel,731,Sales,5,5,Technical Degree,1,441,3,Male,93,4,4,Sales Executive,2,Single,14206,10k-20k,28557,8,Y,Yes,20,4,2,80,3,1,4,4,12,6,3,2
+RM342,28,26-35,Yes,Non-Travel,1103,Sales,1,5,Life Sciences,1,442,4,Female,86,4,4,Sales Executive,2,Divorced,7924,10k-20k,5130,2,Y,Yes,19,3,1,80,3,15,3,1,0,10,4,4
+RM343,56,46-60,No,Non-Travel,347,Human Resources,16,5,Medical,1,443,3,Female,81,1,1,Sales Representative,2,Married,7899,Upto 5k,19454,6,Y,Yes,13,2,1,80,1,32,0,1,13,10,10,8
+RM344,41,36-45,No,Travel_Frequently,561,Research & Development,18,2,Life Sciences,1,444,3,Female,81,4,2,Sales Executive,2,Divorced,3780,10k-20k,28705,3,Y,No,10,3,4,80,3,0,6,2,13,0,1,2
+RM345,50,46-60,Yes,Non-Travel,351,Sales,9,1,Life Sciences,1,445,3,Male,71,1,5,Laboratory Technician,2,Divorced,4087,10k-20k,12079,5,Y,Yes,16,1,1,80,0,13,3,3,5,8,0,6
+RM346,18,18-25,No,Travel_Rarely,104,Sales,20,1,Marketing,1,446,4,Male,30,3,5,Sales Executive,1,Married,19894,5k-10k,14081,5,Y,No,10,3,4,80,3,0,0,3,0,1,8,4
+RM347,20,18-25,Yes,Travel_Frequently,1473,Research & Development,11,2,Life Sciences,1,447,2,Male,40,4,4,Sales Executive,3,Single,14091,Upto 5k,5618,9,Y,No,14,2,3,80,1,14,6,1,11,8,8,1
+RM348,39,36-45,No,Travel_Rarely,306,Human Resources,7,2,Marketing,1,448,4,Male,50,4,2,Sales Representative,1,Divorced,10643,20k+,12979,4,Y,No,10,1,3,80,2,14,2,2,20,4,9,5
+RM349,20,18-25,No,Travel_Frequently,1476,Sales,4,3,Technical Degree,1,449,4,Male,65,3,4,Laboratory Technician,1,Divorced,2668,5k-10k,23345,4,Y,Yes,22,1,2,80,0,30,6,2,20,1,2,10
+RM350,43,36-45,Yes,Non-Travel,1434,Human Resources,20,4,Technical Degree,1,450,4,Male,75,4,3,Research Scientist,3,Divorced,4653,5k-10k,15966,0,Y,No,22,1,1,80,2,24,3,4,3,7,10,4
+RM351,19,18-25,Yes,Travel_Frequently,226,Human Resources,20,5,Technical Degree,1,451,4,Female,73,2,2,Manager,3,Single,6053,Upto 5k,12690,9,Y,No,24,1,4,80,0,32,2,3,17,2,5,9
+RM352,54,46-60,Yes,Travel_Rarely,1173,Research & Development,24,5,Technical Degree,1,452,2,Female,58,3,5,Manager,2,Married,2924,10k-20k,12874,0,Y,Yes,16,3,4,80,3,31,1,3,2,9,1,7
+RM353,39,36-45,No,Travel_Rarely,115,Human Resources,21,2,Technical Degree,1,453,2,Male,57,3,4,Sales Executive,2,Single,6383,5k-10k,20579,6,Y,No,20,3,2,80,0,14,1,4,2,2,5,9
+RM354,22,18-25,Yes,Non-Travel,1273,Research & Development,19,5,Medical,1,454,2,Female,86,3,5,Research Scientist,4,Single,11407,10k-20k,8877,3,Y,No,15,4,2,80,2,13,6,4,9,8,3,7
+RM355,44,36-45,No,Travel_Frequently,1028,Sales,25,4,Technical Degree,1,455,2,Male,75,1,3,Sales Representative,2,Divorced,14916,5k-10k,21974,1,Y,No,23,2,2,80,0,6,5,4,18,7,7,9
+RM356,22,18-25,Yes,Non-Travel,628,Research & Development,24,4,Technical Degree,1,456,1,Male,84,4,5,Sales Representative,1,Divorced,11385,Upto 5k,5594,1,Y,Yes,20,2,4,80,3,14,4,1,2,6,8,4
+RM357,36,36-45,No,Travel_Frequently,755,Research & Development,8,3,Marketing,1,457,2,Female,69,3,5,Sales Executive,3,Divorced,16910,20k+,26252,4,Y,No,15,2,3,80,0,0,4,4,3,3,5,10
+RM358,59,46-60,Yes,Non-Travel,651,Human Resources,23,3,Marketing,1,458,4,Male,45,1,2,Manager,3,Divorced,13615,Upto 5k,16614,10,Y,Yes,17,1,4,80,1,24,2,3,11,0,10,8
+RM359,41,36-45,No,Travel_Frequently,1473,Research & Development,19,1,Marketing,1,459,2,Male,44,2,4,Manager,2,Divorced,19549,20k+,20617,10,Y,No,20,1,4,80,0,35,0,1,7,1,9,8
+RM360,26,26-35,Yes,Travel_Rarely,490,Research & Development,18,2,Life Sciences,1,460,1,Female,49,3,1,Sales Executive,3,Single,15370,10k-20k,7806,4,Y,No,24,2,3,80,1,31,6,1,5,0,6,1
+RM361,58,46-60,Yes,Non-Travel,140,Sales,21,4,Technical Degree,1,461,3,Male,98,4,2,Manager,3,Divorced,3873,Upto 5k,23457,9,Y,No,25,4,1,80,3,15,6,4,1,4,10,5
+RM362,38,36-45,Yes,Non-Travel,752,Sales,1,3,Technical Degree,1,462,4,Male,55,1,5,Laboratory Technician,2,Single,19872,20k+,9775,5,Y,No,10,4,1,80,3,21,1,4,2,0,7,1
+RM363,30,26-35,Yes,Non-Travel,195,Research & Development,16,2,Technical Degree,1,463,3,Male,85,2,4,Manager,2,Married,12876,10k-20k,27622,7,Y,Yes,19,3,4,80,1,27,3,3,4,2,3,7
+RM364,42,36-45,Yes,Travel_Frequently,937,Research & Development,12,2,Marketing,1,464,4,Female,92,1,5,Manager,4,Married,2416,20k+,5076,9,Y,Yes,11,3,2,80,2,25,5,1,1,2,5,2
+RM365,30,26-35,Yes,Travel_Rarely,468,Research & Development,2,5,Medical,1,465,1,Male,48,1,3,Manager,1,Divorced,14205,Upto 5k,27905,5,Y,No,20,4,1,80,0,14,4,2,5,6,1,5
+RM366,21,18-25,Yes,Travel_Frequently,1054,Human Resources,14,5,Medical,1,466,1,Female,75,1,2,Laboratory Technician,2,Single,8113,5k-10k,11906,9,Y,Yes,21,1,3,80,2,25,3,1,19,6,1,8
+RM367,30,26-35,Yes,Travel_Frequently,434,Human Resources,29,2,Medical,1,467,2,Male,53,1,2,Sales Executive,4,Single,7958,Upto 5k,16068,0,Y,Yes,24,2,2,80,3,36,6,2,4,8,2,6
+RM368,59,46-60,Yes,Travel_Frequently,1235,Human Resources,12,2,Life Sciences,1,468,2,Female,80,1,1,Sales Representative,4,Single,19775,Upto 5k,22606,1,Y,Yes,20,4,1,80,0,18,3,2,15,10,2,10
+RM369,23,18-25,No,Non-Travel,1489,Human Resources,12,2,Technical Degree,1,469,2,Female,41,3,3,Laboratory Technician,3,Married,19497,20k+,22838,8,Y,No,10,2,4,80,1,40,4,1,8,3,1,3
+RM370,37,36-45,Yes,Travel_Frequently,1280,Sales,12,4,Medical,1,470,1,Male,48,1,2,Research Scientist,3,Divorced,9428,5k-10k,29528,6,Y,No,19,1,1,80,3,32,2,3,2,8,9,2
+RM371,23,18-25,Yes,Non-Travel,206,Research & Development,11,1,Medical,1,471,1,Female,72,3,2,Manager,4,Divorced,18165,5k-10k,14829,0,Y,Yes,25,4,4,80,3,16,5,4,16,1,6,8
+RM372,26,26-35,No,Non-Travel,282,Sales,17,5,Medical,1,472,4,Male,86,3,1,Manager,2,Married,5116,Upto 5k,25382,0,Y,No,18,3,1,80,2,6,3,4,7,9,7,1
+RM373,20,18-25,Yes,Travel_Rarely,851,Research & Development,12,3,Marketing,1,473,1,Female,52,2,5,Sales Executive,4,Single,1542,10k-20k,15305,4,Y,Yes,16,2,2,80,1,17,4,3,16,8,4,8
+RM374,27,26-35,No,Non-Travel,778,Research & Development,23,4,Medical,1,474,3,Male,36,4,1,Sales Executive,2,Single,10353,20k+,14452,1,Y,No,14,4,2,80,0,25,4,2,18,7,6,4
+RM375,38,36-45,Yes,Travel_Rarely,657,Research & Development,30,2,Life Sciences,1,475,3,Female,97,4,5,Laboratory Technician,4,Single,2071,10k-20k,27890,1,Y,Yes,20,3,4,80,3,3,1,2,20,5,0,1
+RM376,46,46-60,Yes,Travel_Frequently,328,Human Resources,9,4,Life Sciences,1,476,1,Female,76,4,4,Research Scientist,3,Married,17285,Upto 5k,21437,8,Y,Yes,10,3,2,80,3,22,2,2,6,10,8,7
+RM377,58,46-60,No,Travel_Frequently,783,Human Resources,23,3,Medical,1,477,4,Female,32,2,5,Research Scientist,1,Single,11311,10k-20k,19772,10,Y,No,13,3,4,80,3,2,2,3,17,6,2,1
+RM378,44,36-45,No,Non-Travel,818,Sales,3,5,Life Sciences,1,478,1,Male,46,4,3,Sales Representative,1,Divorced,14877,Upto 5k,23096,3,Y,No,10,3,4,80,2,33,6,1,19,4,7,2
+RM379,49,46-60,Yes,Travel_Frequently,823,Human Resources,18,3,Technical Degree,1,479,4,Female,69,1,3,Research Scientist,3,Married,4218,20k+,10909,7,Y,Yes,25,2,3,80,1,17,5,1,3,5,2,8
+RM380,32,26-35,No,Non-Travel,1445,Human Resources,16,4,Life Sciences,1,480,4,Male,60,4,5,Research Scientist,3,Divorced,13559,Upto 5k,27112,3,Y,Yes,14,4,3,80,3,15,4,1,3,2,7,1
+RM381,22,18-25,Yes,Travel_Rarely,1190,Research & Development,6,2,Marketing,1,481,2,Male,62,3,5,Research Scientist,1,Single,10376,10k-20k,5762,5,Y,Yes,18,4,3,80,0,27,6,1,6,7,1,5
+RM382,45,36-45,No,Travel_Rarely,1152,Human Resources,30,3,Medical,1,482,3,Female,37,1,1,Sales Executive,4,Single,3296,5k-10k,5228,9,Y,No,18,3,1,80,1,33,3,4,13,4,0,5
+RM383,45,36-45,Yes,Non-Travel,1222,Research & Development,12,1,Life Sciences,1,483,1,Male,96,4,4,Manager,2,Married,17065,Upto 5k,9537,1,Y,Yes,14,4,4,80,3,39,0,1,2,3,3,4
+RM384,44,36-45,No,Travel_Rarely,297,Human Resources,1,1,Technical Degree,1,484,3,Female,59,3,2,Sales Executive,4,Divorced,14355,5k-10k,16355,7,Y,Yes,25,4,1,80,1,11,5,1,15,4,6,2
+RM385,22,18-25,Yes,Non-Travel,1178,Sales,2,1,Life Sciences,1,485,3,Male,51,4,1,Research Scientist,4,Single,2243,5k-10k,11071,5,Y,Yes,14,4,3,80,3,40,4,1,2,8,10,4
+RM386,55,46-60,Yes,Travel_Frequently,1140,Sales,2,1,Marketing,1,486,4,Male,87,1,5,Research Scientist,3,Divorced,9168,Upto 5k,11266,5,Y,No,17,1,2,80,1,5,4,1,15,10,3,3
+RM387,35,26-35,No,Non-Travel,1198,Sales,13,4,Technical Degree,1,487,1,Female,64,3,3,Sales Representative,2,Divorced,1535,Upto 5k,26993,10,Y,No,12,4,3,80,1,26,1,2,18,1,8,10
+RM388,52,46-60,No,Travel_Frequently,277,Human Resources,19,3,Life Sciences,1,488,4,Female,80,3,1,Research Scientist,1,Married,5805,10k-20k,25440,3,Y,No,24,2,2,80,1,20,5,4,18,1,3,1
+RM389,28,26-35,No,Non-Travel,570,Human Resources,6,4,Marketing,1,489,2,Male,81,3,4,Sales Executive,1,Divorced,9364,10k-20k,11999,7,Y,Yes,10,1,1,80,3,5,3,3,10,5,1,3
+RM390,23,18-25,Yes,Non-Travel,1485,Research & Development,27,2,Marketing,1,490,1,Male,95,4,1,Sales Executive,4,Married,12643,5k-10k,11135,4,Y,Yes,19,3,2,80,1,29,3,3,2,0,3,9
+RM391,32,26-35,No,Travel_Rarely,962,Research & Development,11,4,Technical Degree,1,491,3,Female,67,4,2,Sales Executive,2,Single,18814,10k-20k,16210,10,Y,Yes,22,3,2,80,1,20,5,3,0,1,9,1
+RM392,32,26-35,No,Travel_Frequently,303,Sales,25,1,Marketing,1,492,1,Female,78,4,1,Research Scientist,1,Married,12116,20k+,26779,3,Y,No,20,2,3,80,2,18,0,3,4,1,8,3
+RM393,22,18-25,No,Non-Travel,137,Human Resources,1,2,Technical Degree,1,493,1,Female,33,2,2,Sales Representative,3,Divorced,13229,20k+,26915,3,Y,No,22,3,1,80,2,29,4,1,7,3,0,9
+RM394,20,18-25,Yes,Travel_Rarely,731,Sales,10,1,Medical,1,494,1,Male,95,4,5,Manager,3,Married,14742,10k-20k,7179,2,Y,Yes,22,2,3,80,3,13,6,2,9,9,8,8
+RM395,19,18-25,Yes,Travel_Rarely,1019,Sales,12,3,Technical Degree,1,495,3,Male,75,4,2,Laboratory Technician,2,Divorced,7823,5k-10k,22021,5,Y,No,16,1,3,80,2,0,0,3,17,2,2,4
+RM396,45,36-45,Yes,Travel_Frequently,484,Sales,30,3,Technical Degree,1,496,1,Female,71,2,4,Sales Representative,3,Single,7354,5k-10k,27709,2,Y,No,23,3,2,80,2,28,6,4,15,8,2,4
+RM397,44,36-45,Yes,Travel_Frequently,959,Human Resources,4,4,Marketing,1,497,1,Male,85,2,3,Research Scientist,3,Married,17178,5k-10k,16952,4,Y,Yes,12,1,1,80,3,4,1,1,4,0,3,2
+RM398,29,26-35,No,Travel_Frequently,379,Human Resources,18,4,Technical Degree,1,498,4,Male,69,4,4,Research Scientist,2,Single,14119,10k-20k,22886,9,Y,Yes,15,2,2,80,1,2,1,2,9,3,6,4
+RM399,18,18-25,Yes,Travel_Rarely,636,Sales,22,2,Technical Degree,1,499,4,Female,83,3,3,Research Scientist,2,Single,7992,5k-10k,13461,1,Y,Yes,13,4,4,80,0,14,1,2,1,10,9,7
+RM400,25,18-25,Yes,Travel_Frequently,934,Human Resources,8,3,Life Sciences,1,500,3,Male,66,4,1,Research Scientist,4,Divorced,11722,20k+,16742,3,Y,No,22,3,1,80,0,15,3,4,4,8,9,3
