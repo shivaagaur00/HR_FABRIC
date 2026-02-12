@@ -1,0 +1,11 @@
+EmpID,Age,AgeGroup,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,SalarySlab,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+RM100001,29,26-35,No,Travel_Rarely,1102,Research & Development,10,2,Life Sciences,100001,3,Male,65,3,2,Research Scientist,4,Single,52000,50k-55k,2100,2,Y,No,13,3,3,80,0,7,3,3,5,2,1,3
+RM100002,45,36-45,Yes,Travel_Frequently,890,Sales,15,3,Marketing,100002,2,Female,72,2,3,Sales Executive,2,Divorced,68000,65k-70k,2900,5,Y,Yes,19,4,1,80,1,20,4,2,8,6,2,7
+RM100003,34,26-35,No,Non-Travel,1345,Human Resources,5,4,Human Resources,100003,4,Male,88,4,2,HR Manager,4,Married,61000,60k-65k,2600,3,Y,No,11,3,4,80,2,11,2,3,6,3,1,4
+RM100004,41,36-45,No,Travel_Rarely,1020,Sales,8,3,Medical,100004,3,Female,70,3,3,Sales Representative,3,Married,59000,55k-60k,2500,4,Y,No,14,3,2,80,1,15,3,3,7,4,2,5
+RM100005,27,18-25,Yes,Travel_Frequently,980,Research & Development,12,1,Life Sciences,100005,2,Male,60,2,1,Laboratory Technician,2,Single,42000,40k-45k,1800,1,Y,Yes,18,4,3,80,0,4,2,2,3,1,0,2
+RM100006,50,46-55,No,Non-Travel,1500,Finance,20,4,Finance,100006,4,Male,90,4,4,Finance Manager,4,Married,90000,85k-90k,3200,6,Y,No,12,3,4,80,2,25,4,4,15,10,5,12
+RM100007,32,26-35,No,Travel_Rarely,1150,IT,6,3,Technical Degree,100007,3,Female,75,3,2,Software Engineer,3,Single,65000,60k-65k,2700,3,Y,No,15,3,3,80,1,9,3,3,6,4,1,4
+RM100008,39,36-45,Yes,Travel_Frequently,1050,Operations,18,2,Management,100008,2,Male,68,2,3,Operations Manager,2,Divorced,72000,70k-75k,3000,5,Y,Yes,20,4,2,80,1,18,4,2,9,6,3,6
+RM100009,28,26-35,No,Travel_Rarely,990,Marketing,9,3,Marketing,100009,3,Female,66,3,2,Marketing Analyst,4,Single,54000,50k-55k,2200,2,Y,No,16,3,3,80,0,6,3,3,4,2,1,3
+RM100010,44,36-45,No,Non-Travel,1280,Quality,14,4,Life Sciences,100010,4,Male,82,4,3,Quality Manager,4,Married,78000,75k-80k,3100,4,Y,No,13,3,4,80,2,19,3,4,10,7,3,8
