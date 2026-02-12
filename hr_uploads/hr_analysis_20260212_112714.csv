@@ -1,0 +1,21 @@
+EmpID,Age,AgeGroup,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,SalarySlab,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+RM100100,44,36-45,No,Travel_Frequently,1024,Research & Development,19,3,Human Resources,100100,1,Female,99,1,1,Manager,3,Single,33767,30k-40k,2624,0,Y,Yes,15,4,1,80,3,1,5,3,13,5,10,13
+RM100101,54,26-35,No,Travel_Rarely,1098,Human Resources,16,1,Life Sciences,100101,4,Male,100,4,2,Manager,2,Divorced,36242,60k-65k,2699,1,Y,Yes,14,4,2,80,2,5,3,2,3,7,0,11
+RM100102,54,26-35,No,Travel_Frequently,1133,Human Resources,10,4,Technical Degree,100102,2,Male,80,3,1,Research Scientist,1,Divorced,25609,30k-40k,2501,0,Y,No,17,3,4,80,3,13,0,2,6,12,2,14
+RM100103,46,18-25,No,Travel_Rarely,827,Human Resources,3,3,Marketing,100103,3,Male,46,4,3,Laboratory Technician,1,Single,49733,60k-65k,2263,0,Y,Yes,14,3,4,80,2,20,6,4,1,1,10,5
+RM100104,29,46-55,Yes,Travel_Frequently,1128,Sales,14,2,Human Resources,100104,1,Female,80,2,1,Manager,3,Divorced,61412,25k-30k,2335,6,Y,Yes,18,4,4,80,3,27,2,1,2,0,2,10
+RM100105,39,36-45,No,Non-Travel,1142,Sales,12,1,Marketing,100105,4,Male,99,1,1,Manager,4,Married,29217,30k-40k,2465,4,Y,Yes,17,3,1,80,0,21,5,1,0,14,9,0
+RM100106,51,36-45,No,Travel_Frequently,1091,Human Resources,23,4,Technical Degree,100106,4,Female,70,1,2,Sales Executive,2,Married,32623,25k-30k,2962,1,Y,No,22,4,4,80,2,4,6,4,14,7,1,14
+RM100107,47,36-45,No,Non-Travel,870,Research & Development,17,1,Medical,100107,2,Female,54,4,5,Laboratory Technician,4,Single,21405,60k-65k,2655,2,Y,Yes,20,3,2,80,1,14,0,4,1,14,4,11
+RM100108,34,18-25,No,Non-Travel,950,Sales,6,4,Human Resources,100108,2,Female,75,3,2,Research Scientist,4,Single,59016,60k-65k,2690,5,Y,No,18,3,2,80,1,18,0,1,5,13,7,14
+RM100109,26,26-35,Yes,Travel_Frequently,1188,Research & Development,3,4,Life Sciences,100109,2,Female,84,2,4,Manager,1,Divorced,34792,40k-50k,2754,2,Y,No,21,4,4,80,3,14,5,4,19,4,4,15
+RM100110,50,18-25,No,Travel_Frequently,959,Human Resources,10,5,Human Resources,100110,2,Male,81,1,3,Sales Executive,4,Single,27395,60k-65k,2439,1,Y,Yes,10,4,3,80,0,26,4,2,19,10,3,4
+RM100111,27,36-45,No,Non-Travel,1313,Human Resources,10,2,Technical Degree,100111,3,Male,49,1,3,Research Scientist,2,Single,38704,20k-25k,2569,1,Y,No,12,3,4,80,2,7,6,4,12,5,4,14
+RM100112,36,18-25,Yes,Travel_Rarely,638,Human Resources,25,2,Technical Degree,100112,2,Female,58,2,2,Healthcare Representative,2,Single,56149,40k-50k,2913,4,Y,Yes,25,4,1,80,1,7,3,3,19,15,8,4
+RM100113,44,46-55,No,Travel_Frequently,815,Research & Development,5,5,Human Resources,100113,3,Male,88,1,3,Manager,2,Divorced,53154,25k-30k,2192,3,Y,Yes,23,4,3,80,0,21,6,4,11,5,7,0
+RM100114,54,55+,No,Non-Travel,1230,Research & Development,24,1,Life Sciences,100114,3,Female,88,3,5,Healthcare Representative,3,Married,37804,40k-50k,2292,0,Y,No,14,3,3,80,1,27,3,3,17,6,9,12
+RM100115,50,46-55,Yes,Non-Travel,1285,Human Resources,5,4,Life Sciences,100115,3,Male,78,1,4,Laboratory Technician,3,Divorced,67375,60k-65k,2343,1,Y,Yes,17,4,4,80,1,21,0,4,19,14,5,10
+RM100116,37,36-45,Yes,Non-Travel,1318,Human Resources,1,5,Medical,100116,2,Female,87,2,5,Sales Executive,2,Single,36165,20k-25k,2716,6,Y,No,11,3,1,80,1,22,4,1,5,6,1,6
+RM100117,39,26-35,Yes,Travel_Rarely,1462,Research & Development,10,5,Life Sciences,100117,1,Female,80,1,4,Manager,1,Divorced,20391,25k-30k,2294,2,Y,No,23,4,1,80,0,8,6,3,0,6,7,15
+RM100118,33,55+,Yes,Travel_Frequently,781,Sales,16,2,Technical Degree,100118,2,Male,60,4,1,Laboratory Technician,4,Married,33699,60k-65k,2525,2,Y,No,12,4,1,80,1,27,6,4,7,15,8,10
+RM100119,31,55+,No,Travel_Rarely,555,Sales,4,2,Life Sciences,100119,2,Male,54,1,1,Healthcare Representative,4,Married,50121,30k-40k,2830,4,Y,Yes,17,3,3,80,3,5,3,2,10,0,10,8
